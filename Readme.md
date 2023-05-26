@@ -1,0 +1,1 @@
+Esse projeto foi feito com HTML5, CSS3 e JavaScript puro, essa contagem mostra quanto tempo falta para o ano acabar.
